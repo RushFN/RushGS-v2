@@ -10,6 +10,7 @@ Some modified reboot i made with webhook sender, siphon effect etc. ALL CREDITS 
 + s2 work sometimes :D
 + No MCP disabled by default.
 
+# problems
 - Webhook sender very basic
 - Crashes sometimes
 
